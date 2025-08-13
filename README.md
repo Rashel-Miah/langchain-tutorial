@@ -2,16 +2,17 @@
 This tutorial is designed for langchain basic tutorial.
 
 ## 🧩 It contains the modules below.
-- ✅ Chatbot Tutorial
-      - Starter
-      - History
-      - Prompt Template
-- ✅ Chain Tutorial
-      - Sequential Chain
-      - Basic Chain
-      - Building manual chain (How the chain works)
-      - Parallel Chain
-      - Conditional Chain
+1 ✅ Chatbot Tutorial
+  - Starter
+  - History
+  - Prompt Template
+    
+2 ✅ Chain Tutorial
+  - Sequential Chain
+  - Basic Chain
+  - Building manual chain (How the chain works internally)
+  - Parallel Chain
+  - Conditional Chain
 
 ## 🚀 Features
 
